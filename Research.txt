@@ -1,0 +1,40 @@
+
+Research for ML stock/investment prediction
+
+
+#Machine Learning Methods in Algorithmic Trading Strategy Optimization – Design and Time Efficiency
+https://www.researchgate.net/publication/335114551_Machine_Learning_Methods_in_Algorithmic_Trading_Strategy_Optimization_-_Design_and_Time_Efficiency
+
+
+#The virtue of simplicity: On machine learning models in algorithmic trading
+https://journals.sagepub.com/doi/full/10.1177/2053951720926558
+
+
+#This one has very useful research paper  
+#Algorithmic Trading  
+https://paperswithcode.com/task/algorithmic-trading
+
+
+#course Machine Learning for Trading Specialisation - Coursera
+https://www.coursera.org/specializations/machine-learning-trading?action=enroll
+
+
+#Sentiment analysis and machine learning in finance: a comparison of methods and models on one million messages
+https://link.springer.com/article/10.1007/s42521-019-00014-x
+
+
+#Machine Learning in Economics and Finance
+https://link.springer.com/article/10.1007/s10614-021-10094-w
+
+
+#Machine Learning in Finance:The Case of Deep Learning for Option Pricing
+https://srdas.github.io/Papers/BlackScholesNN.pdf
+
+
+#State of the Art Review for Applying Computational Intelligence and Machine Learning Techniques to Portfolio Optimisation
+https://arxiv.org/ftp/arxiv/papers/0910/0910.2276.pdf
+
+
+#Part of the Google Machine Learning courses with Tenserflow
+https://cloud.google.com/architecture/machine-learning-with-financial-time-series-data
+https://www.youtube.com/watch?v=N422_CYuzZg
